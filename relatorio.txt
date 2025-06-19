@@ -1,12 +1,12 @@
-<<<<<<< HEAD
+
 Nome: Kauany dos Santos Rodrigues
 Email: kauanyrodrigues.discente@gmail.com
 Usuário git:kaurodrigues-dev
-=======
+
 Nome: Ana Beatriz T Ribeiro
 Email: ana.ribeiroxp@gmail.com
 Usuario: Ana-ribeiro-tx
->>>>>>> 80c4d5425c8c4a490fca371b6211da62439a4a58
+
 Nome: Jonatas Lima
 Email: johnlima540@gmail.com
 Usuário: jlima08
