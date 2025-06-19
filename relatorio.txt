@@ -1,6 +1,9 @@
+<<<<<<< HEAD
                                                     Lista de desenvolvedores do projeto
                                                     
 
+=======
+>>>>>>> feature-jonatas
 Nome: Kauany dos Santos Rodrigues
 Email: kauanyrodrigues.discente@gmail.com
 Usuário git:kaurodrigues-dev
@@ -12,3 +15,4 @@ Usuario: Ana-ribeiro-tx
 Nome: Jonatas Lima
 Email: johnlima540@gmail.com
 Usuário: jlima08
+TESTANDO COMMIT ADICIONANDO UM PARAGRAFO
